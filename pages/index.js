@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Vocaal ensemble Noctet!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Wij zijn vocaal ensemble Noctet
         </p>
       </main>
 
